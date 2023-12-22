@@ -1,0 +1,4 @@
+﻿  Source.cpp
+H:\githubProjekti\simpleCardGame\simpleCardGame\simpleCardGame\Source.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\githubProjekti\simpleCardGame\simpleCardGame\simpleCardGame\Source.cpp(56,65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  simpleCardGame.vcxproj -> H:\githubProjekti\simpleCardGame\simpleCardGame\x64\Debug\simpleCardGame.exe
